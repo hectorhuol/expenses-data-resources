@@ -1,0 +1,1 @@
+{"1":{"expenseId":"1","value":10.0,"dateAndHour":"2016-08-02 10:31","companions":[{"companionId":"1","name":"Name","alias":"Alias"}],"card":{"cardId":"1","name":"Name","type":"CREDIT"},"category":{"categoryId":"1","name":"Name"},"user":{"userId":"1","userName":"Name","password":"1234"},"location":"Location","city":"City"}}
